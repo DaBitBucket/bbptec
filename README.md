@@ -3,6 +3,7 @@ bbptec
 
 <b>Bit Buckets Programming Team Entrance Challenge</b>
 
+To be completed by January 17<sup>th</sup>, 2015.<br/>
 The Bit Buckets programming challenge is composed of four main sections:
 <ul>
 <li><i>Collaboration</i><br/>
@@ -18,8 +19,10 @@ what the line is doing.<br/></li>
 <li><i>Debugging</i><br/>
 Tested by spotting and correcting errors within a program.<br/>
 There are two files within <code>/debugging</code>: <code>Palindrome.java</code> and <code>Primes.java</code><br/>
-A comment at the top of each file explains what the program should do when working.</br>
-Your task is to fix the errors in the programs and get them working as expected.</li>
+A comment at the top of each file explains what the program should do when working.<br/>
+Your task is to fix the errors in the programs and get them working as expected.<br/>
+Note in a text file what changes you made to each program.
+</li>
 <li><i>Writing</i><br/>
 Tested by writing a program to solve a problem.<br/>
 Your task is to write a program that will take the following as input:
