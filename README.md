@@ -1,4 +1,4 @@
-bbpec
+bbptec
 =====
 
 <b>Bit Buckets Programming Team Entrance Challenge</b>
@@ -8,8 +8,8 @@ The Bit Buckets programming challenge is composed of four main sections:
 <li><i>Collaboration</i><br/>
 Tested through usage of git and github.com.<br/>
 First, clone this project. Then, complete the challenges below.<br/>
-Finally, upload your submission as a private repository to github under your name.<br/>
-Email Kevin your code at forbesk@email.arizona.edu</li>
+Finally, upload your submission as a private repository to github under your account (create one if you haven't).<br/>
+Email Kevin your code at <code>forbesk@email.arizona.edu</code>.</li>
 <li><i>Reading</i><br/>
 Tested by detailed commenting of a program line-by-line.<br/>
 There is a java file in <code>/reading</code> called <code>WordGen.java</code>.<br/>
@@ -29,8 +29,9 @@ Your task is to write a program that will take the following as input:
 <li>Number of games</li>
 </ul>
 and generate a match schedule for the upcoming Super Smash Bros Brawl tournament. <br/>
-Players can be denoted by numbers.<br/>
+Players should be denoted by numbers.<br/>
 The output should list which players are assigned to which Wiis for each match number. <br/>
+Name the main class <code>SSBBScheduler</code> (Super Smash Bros Brawl Scheduler).
 </ul>
 
 
